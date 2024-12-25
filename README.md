@@ -4,4 +4,4 @@ This project creat by mohammad khan
 
 # post
 
-full stack engineer in web
+I am full stack full engineering
